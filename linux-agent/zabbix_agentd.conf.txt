@@ -1,0 +1,3 @@
+Server=10.0.1.118
+ServerActive=10.0.1.118
+Hostname=Client-Linux-Zabbix
