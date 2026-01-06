@@ -1,4 +1,4 @@
-Présentation du projet
+1-Présentation du projet
 
 Ce projet consiste à concevoir et déployer une infrastructure cloud de supervision centralisée sur AWS, permettant de surveiller en temps réel des machines Linux et Windows.
 
@@ -12,7 +12,7 @@ Zabbix Agent pour la collecte des métriques système
 
 
 
-Composants
+2-Composants : 
 
 1 serveur Zabbix (Dockerisé)
 
@@ -22,6 +22,8 @@ Composants
 
 <img width="1860" height="477" alt="les 3 instances créer " src="https://github.com/user-attachments/assets/6a7438e4-ba8e-43c3-be59-7d6fad5340dc" />
 
+
+3- Zabbix
 
 Toutes les instances sont déployées dans un VPC AWS, avec communication via IP privées.
 
